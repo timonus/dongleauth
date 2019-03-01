@@ -57,6 +57,7 @@ providers:
     u2f: Yes
     
   - name: SoloKeys
+    img: solokey.png
     url: https://shop.solokeys.com
     hardware: Yes
     otp: No
